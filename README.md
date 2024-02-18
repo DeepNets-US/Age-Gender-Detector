@@ -8,11 +8,9 @@ Welcome to the Age and Gender Detector project! This AI-powered application uses
 
 ## Getting Started
 
-Before running the application, make sure to decompress the weights file.
+Before running the application, make sure to download the weights file.
 
-1. **Decompress Weights File:**
-   - Locate the compressed weights file (e.g., `weights.zip`).
-   - Decompress the file to extract the model weights.
+- Download the weights from [kaggle](https://www.kaggle.com/datasets/utkarshsaxenadn/age-and-gender-prediction-vgg16-resnet152v2).
 
 ## Running the GUI
 
