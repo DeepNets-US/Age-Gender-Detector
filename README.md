@@ -18,7 +18,8 @@ Before running the application, make sure to download the weights file.
 
 1. Open your terminal.
 2. Navigate to the project directory.
-3. Run the following command:
+3. Go to [gui.py](https://github.com/DeepNets-US/Age-Gender-Detector/blob/main/gui.py)
+4. Run the following command:
 
    ```bash
    python gui.py
