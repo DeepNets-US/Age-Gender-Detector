@@ -33,7 +33,7 @@ Before running the application, make sure to download the weights file.
 
 ## Note
 
-Before running the GUI in any way, ensure the weights file is decompressed. The weights file is compressed as a ZIP to reduce size.
+Before running the GUI in any way, ensure the weights file is downloaded and present in a directory names "Weights". The weights can't be uploaded due to the size limit on GitHub.
 
 Feel free to explore the Jupyter notebooks and other Python files in the repository for a deeper understanding of the project.
 
